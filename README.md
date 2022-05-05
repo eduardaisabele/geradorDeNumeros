@@ -11,4 +11,10 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 ## ☕ Usando gerador de números aleatórios
 
-Para usar o gerador de números aleatórios, siga estas etapas:
+Para usar o gerador de números aleatórios, acesse o site:
+<br>
+[https://eduardaisabele.github.io/geradorDeNumeros/](https://eduardaisabele.github.io/geradorDeNumeros/)
+
+<h4 align="center"> 
+	🚧  Gerador de números 🚀 Em construção...  🚧
+</h4>
