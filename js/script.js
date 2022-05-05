@@ -10,7 +10,6 @@ function sortearNumero(){
   mostraNumeroGerado.innerHTML = roleta[Math.floor(Math.random() * roleta.length)];
 }
 
-let numeroEscolhido = prompt("Escolha a partir de quantos numeros vai ser sorteado")
-for (i = 0; i <= numeroEscolhido; i++) {
+for (i = 0; i <= 100; i++) {
   roleta.push(i);
 }
