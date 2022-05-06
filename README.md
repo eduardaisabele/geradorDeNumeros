@@ -1,6 +1,6 @@
 # Gerador de números aleatórios
 
-![gerador](https://user-images.githubusercontent.com/92763302/167044157-dc6180c6-f149-4ade-810c-d12f894bedbd.gif)
+![gerador](https://user-images.githubusercontent.com/92763302/167101059-1874a740-2e0a-4525-b001-4a332b2cf734.gif)
 
 ## Ajustes e melhorias
 
